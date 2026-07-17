@@ -1,0 +1,82 @@
+{
+  "name": "@orc/api",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Stone-01 NestJS API — Document Import foundation",
+  "scripts": {
+    "build": "nest build",
+    "start": "nest start",
+    "start:dev": "nest start --watch",
+    "start:prod": "node dist/main.js",
+    "lint": "tsc -p tsconfig.json --noEmit",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "node --max-old-space-size=4096 ../../node_modules/jest/bin/jest.js --coverage --runInBand --passWithNoTests",
+    "test:unit": "node --max-old-space-size=4096 ../../node_modules/jest/bin/jest.js --coverage --runInBand",
+    "test:integration": "node --max-old-space-size=4096 ../../node_modules/jest/bin/jest.js --config ./jest.integration.config.js --runInBand"
+  },
+  "dependencies": {
+    "@nestjs/common": "^11.1.6",
+    "@nestjs/config": "^4.0.2",
+    "@nestjs/core": "^11.1.6",
+    "@nestjs/platform-express": "^11.1.6",
+    "@nestjs/typeorm": "^11.0.0",
+    "@orc/shared": "0.1.0",
+    "class-transformer": "^0.5.1",
+    "class-validator": "^0.14.2",
+    "multer": "^2.0.2",
+    "jszip": "^3.10.1",
+    "pdf-parse": "^1.1.1",
+    "pg": "^8.16.3",
+    "reflect-metadata": "^0.2.2",
+    "rxjs": "^7.8.2",
+    "typeorm": "^0.3.26"
+  },
+  "devDependencies": {
+    "@nestjs/cli": "^11.0.10",
+    "@nestjs/schematics": "^11.0.7",
+    "@nestjs/testing": "^11.1.6",
+    "@types/express": "^5.0.3",
+    "@types/jest": "^30.0.0",
+    "@types/multer": "^2.0.0",
+    "@types/node": "^24.3.0",
+    "@types/pdf-parse": "^1.1.5",
+    "@types/supertest": "^6.0.3",
+    "jest": "^30.0.5",
+    "supertest": "^7.1.4",
+    "ts-jest": "^29.4.1",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.2"
+  },
+  "jest": {
+    "moduleFileExtensions": ["js", "json", "ts"],
+    "rootDir": "src",
+    "testRegex": ".*\\.spec\\.ts$",
+    "transform": {
+      "^.+\\.(t|j)s$": "ts-jest"
+    },
+    "collectCoverageFrom": [
+      "modules/document-import/**/*.ts",
+      "modules/evidence/**/*.ts",
+      "modules/knowledge-extraction/**/*.ts",
+      "!**/entity/**",
+      "!**/*.module.ts",
+      "!**/typeorm-*.repository.ts",
+      "!**/document.repository.ts",
+      "!**/evidence.repository.ts",
+      "!**/extraction.repository.ts",
+      "!**/testing/**",
+      "!**/dto/**",
+      "!**/models/**"
+    ],
+    "coverageDirectory": "../coverage",
+    "testEnvironment": "node",
+    "coverageThreshold": {
+      "global": {
+        "branches": 75,
+        "functions": 90,
+        "lines": 90,
+        "statements": 90
+      }
+    }
+  }
+}

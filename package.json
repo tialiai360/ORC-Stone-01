@@ -1,0 +1,31 @@
+{
+  "name": "orc-stone-01",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Stone-01 HO Notice Assistant — implementation repository (bootstrap only)",
+  "workspaces": [
+    "apps/*",
+    "packages/*"
+  ],
+  "scripts": {
+    "build": "npm run build -w @orc/shared && npm run build -w @orc/api && npm run build -w @orc/web",
+    "dev:web": "npm run build -w @orc/shared && npm run dev -w @orc/web",
+    "dev:api": "npm run build -w @orc/shared && npm run start:dev -w @orc/api",
+    "lint": "npm run build -w @orc/shared && npm run lint -w @orc/shared && npm run lint -w @orc/api && npm run lint -w @orc/web",
+    "test": "npm run build -w @orc/shared && npm run test -w @orc/shared && npm run test -w @orc/api && npm run test:integration -w @orc/api && npm run test -w @orc/web && npm run test:root",
+    "test:root": "node --import tsx --test tests/unit/smoke.test.ts",
+    "test:integration": "npm run test:integration -w @orc/api",
+    "typecheck": "npm run build -w @orc/shared && npm run typecheck -w @orc/shared && npm run typecheck -w @orc/api && npm run typecheck -w @orc/web",
+    "verify:structure": "powershell -NoProfile -File scripts/verify-structure.ps1",
+    "format": "prettier --write \"**/*.{ts,tsx,js,json,md,yml,yaml}\" --ignore-path .gitignore",
+    "format:check": "prettier --check \"**/*.{ts,tsx,js,json,md,yml,yaml}\" --ignore-path .gitignore"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "devDependencies": {
+    "prettier": "^3.6.2",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2"
+  }
+}

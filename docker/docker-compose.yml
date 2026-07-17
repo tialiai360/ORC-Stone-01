@@ -1,0 +1,53 @@
+services:
+  postgres:
+    image: postgres:16-alpine
+    container_name: orc-stone01-postgres
+    restart: unless-stopped
+    environment:
+      POSTGRES_USER: ${POSTGRES_USER:-orc}
+      POSTGRES_PASSWORD: ${POSTGRES_PASSWORD:-orc_dev_change_me}
+      POSTGRES_DB: ${POSTGRES_DB:-orc_stone01}
+    ports:
+      - '${POSTGRES_PORT:-5432}:5432'
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    healthcheck:
+      test: ['CMD-SHELL', 'pg_isready -U ${POSTGRES_USER:-orc} -d ${POSTGRES_DB:-orc_stone01}']
+      interval: 5s
+      timeout: 5s
+      retries: 10
+
+  api:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.api
+    container_name: orc-stone01-api
+    restart: unless-stopped
+    environment:
+      NODE_ENV: ${NODE_ENV:-development}
+      API_PORT: 3001
+      DATABASE_URL: postgresql://${POSTGRES_USER:-orc}:${POSTGRES_PASSWORD:-orc_dev_change_me}@postgres:5432/${POSTGRES_DB:-orc_stone01}
+      STORAGE_ROOT: /data/storage
+    ports:
+      - '${API_PORT:-3001}:3001'
+    volumes:
+      - ../storage:/data/storage
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  web:
+    build:
+      context: ..
+      dockerfile: docker/Dockerfile.web
+    container_name: orc-stone01-web
+    restart: unless-stopped
+    environment:
+      NODE_ENV: ${NODE_ENV:-production}
+    ports:
+      - '${WEB_PORT:-3000}:3000'
+    depends_on:
+      - api
+
+volumes:
+  postgres_data:
