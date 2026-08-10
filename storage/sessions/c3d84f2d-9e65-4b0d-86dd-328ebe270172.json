@@ -1,0 +1,89 @@
+{
+  "documentId": "c3d84f2d-9e65-4b0d-86dd-328ebe270172",
+  "version": 0,
+  "assignments": [
+    {
+      "id": "273d3de7-f77e-4117-ab00-c719ce1821b8",
+      "nodeId": "loai-van-ban",
+      "text": "thông báo",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "705f238c-3e36-4b58-b109-04c16241a4d3",
+      "nodeId": "so-van-ban",
+      "text": "V/v",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "48b46270-e7ad-45ca-aeaa-e6462a467522",
+      "nodeId": "doi-tuong",
+      "text": "Điều hành",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "a97c19df-a056-476a-b545-bc2db3ef8f30",
+      "nodeId": "doi-tuong",
+      "text": "hành lại Cẩm nang \nduy trì hoạt động liên tục tại BIDV \nCỘNG",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "5106d51a-ff6c-49ca-8a02-57775a6372c2",
+      "nodeId": "doi-tuong",
+      "text": "hành lại Cẩm nang duy trì hoạt động liên tục tại \nBIDV thay t",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "73501304-2d38-4d4f-9f5c-bc5fd419595b",
+      "nodeId": "doi-tuong",
+      "text": "QLRRHĐ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "3b9b79b1-0580-42be-8773-201ec03e4c57",
+      "nodeId": "doi-tuong",
+      "text": "QUẢN LÝ RỦI RO \nHOẠT ĐỘNG VÀ THỊ TRƯỜNG \n  \n \n \n Đỗ Thị Khiên",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "b268091c-7bb6-45ec-ad68-5ab2067596ce",
+      "nodeId": "bieu-mau",
+      "text": "Phụ lục",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "028e6cf6-b71d-4e6f-8848-e7f8a58585ff",
+      "nodeId": "noi-dung",
+      "text": "1. Nội dung Cẩm nang và các thay đổi chính:\na) Kết cấu Cẩm nang: gồm 04 Chương  \n- Chương I: Phạm vi điều chỉnh và đối tượng áp dụng. \n- Chương II: Lưu đồ công việc và trách nhiệm các đơn vị trong xây dựng và triển khai BCP.  \n- Chương III: Hướng dẫn phương pháp xây dựng và triển khai BCP. \n- Chương IV: Công tác lưu trữ hồ sơ. \nb) Các nội dung thay đổi chính so với Cẩm nang 31760 và 914: \n- Bổ sung, chỉnh sửa đáp ứng yêu cầu TT83: (i) Bổ sung hướng dẫn xây dựng kế hoạch \nduy trì hoạt động liên tục (BCP); lập kế hoạch và tổ chức diễn tập; (ii) Chỉnh sửa, làm rõ \nthẩm quyền kích hoạt BCP; vai trò, trách nhiệm của đơn vị, cá nhân có  liên  quan; (iii) xác \nđịnh các sản phẩm, dịch vụ và quy trình nghiệp vụ trọng yếu; (iv) cập nhật một số thuật ngữ. \n- Bổ sung mới nội dung: (i) bộ kịch bản ứng phó các sự kiện; (ii) hướng dẫn xử lý các \ntình huống chi nhánh không thể xử lý giao dịch; chi nhánh/PGD tạm ngừng giao dịch hoặc \nhoạt động luân phiên. \n- Cải tiến sơ đồ hóa quy trình triển khai, trách nhiệm các đơn vị (ma trận RACI), đồng \nthời chỉnh sửa kết cấu, gom gộp tập trung các nội dung: (i) lưu đồ công việc, trách nhiệm các \nđơn vị và (ii) phương pháp thực hiện để thuận tiện áp dụng văn bản. \n- Nội dung chỉnh sửa khác: (i) yêu cầu thời gian tối đa phục hồi hoạt động các nghiệp vụ; \n(ii) công tác báo cáo và các biểu mẫu. \n(Chi tiết nội dung thay đổi tại Phụ lục đính kèm)",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    },
+    {
+      "id": "35608049-d868-40ea-84fc-bfae1139a539",
+      "nodeId": "noi-dung",
+      "text": "2. Hiệu lực áp dụng và nội dung chuyển tiếp\na) Cẩm nang này có hiệu lực kể từ ngày 01/07/2026. Kể từ ngày văn bản này có hiệu \nlực, Công văn số 31760/BIDV-QLRRHĐ ngày 27/10/2025 và Công văn số 914/BIDV-\nQLRRHĐ ngày 10/01/2026 hết hiệu lực. \nb) Riêng năm 2026, thời hạn xây dựng BCP và lập kế hoạch diễn tập là ngày 10/8/2026. \nThông tin liên hệ: Ban QLRRHĐ&TT (banqlrrhd@bidv.com.vn; 024.22205544- 6322)./. \n \nNơi nhận: (     bản) \n- Như trên (B.One). \n- HĐQT (để b/c); \n- Ban Điều hành (để b/c); \n- Lưu: VT, Ban QLRRHĐ&TT.   \nTL. TỔNG GIÁM ĐỐC \nGIÁM ĐỐC BAN QUẢN LÝ RỦI RO \nHOẠT ĐỘNG VÀ THỊ TRƯỜNG \n  \n \n \n Đỗ Thị Khiên \n \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\nthaodt23@bidv.com.vn Đỗ Thị Thảo 15:16:06 17/06/2026\nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026",
+      "pageNumber": 1,
+      "createdAt": "2026-07-18T06:41:24.651Z",
+      "source": "auto"
+    }
+  ],
+  "updatedAt": "2026-07-18T06:41:24.652Z",
+  "reviewer": "nguoi-duyet",
+  "classificationVersion": "1.0.0"
+}

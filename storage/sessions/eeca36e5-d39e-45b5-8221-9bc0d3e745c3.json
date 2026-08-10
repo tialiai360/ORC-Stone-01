@@ -1,0 +1,753 @@
+{
+  "documentId": "eeca36e5-d39e-45b5-8221-9bc0d3e745c3",
+  "version": 0,
+  "assignments": [
+    {
+      "id": "7f5449e1-42f2-4a39-a337-8b2031259c9b",
+      "nodeId": "loai-van-ban",
+      "text": "quyết định",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "24c36b73-fe1d-41b4-8933-10e01348deea",
+      "nodeId": "hieu-luc",
+      "text": "01/07/2026",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "7578b979-be9d-4cff-8261-fca5aeaaf46b",
+      "nodeId": "doi-tuong",
+      "text": "1. Đề xuất triển khai làm việc tại địa điểm làm việc thay thế, trình Lãnh đạo phụ trách",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "58c5c489-2b67-4282-8b9a-2ec3309d456a",
+      "nodeId": "doi-tuong",
+      "text": "1. Gửi đề nghị TTCNTT phối hợp mở và cấp quyền cho phép sử dụng tài khoản truy",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "0d516ffb-eff8-4297-9c33-375162b7c7a3",
+      "nodeId": "doi-tuong",
+      "text": "a. Báo cáo kết quả triển khai làm việc tại địa điểm làm việc thay thế và đề xuất quay trở",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "7570d357-a9c3-465e-a6eb-9bc97af8d93d",
+      "nodeId": "doi-tuong",
+      "text": "a. Lập báo cáo kết quả xử lý công việc từ xa và đề xuất dừng triển khai việc truy cập từ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "25d2d024-e398-4bac-a359-426979718e46",
+      "nodeId": "doi-tuong",
+      "text": "chỉ đạo \n Ban chỉ đạo hệ thống Ban QLRRHĐ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "90bac5e6-d679-4dd2-99c0-fd1fd1079127",
+      "nodeId": "doi-tuong",
+      "text": "chỉ đạo hệ thống",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "2bc79f9d-89b6-44f5-a7a4-ddbd6fc5f1c3",
+      "nodeId": "doi-tuong",
+      "text": "Chỉ đạo hệ thống",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "f2dc512d-3c2e-469d-b78d-1f9eb058725d",
+      "nodeId": "doi-tuong",
+      "text": "chỉ đạo tại đơn \nvị \nCác đơn vị \nBM Du thao QD \nBCD tai don v",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "0dbd84b6-1fde-493a-b1aa-16f10e9def41",
+      "nodeId": "doi-tuong",
+      "text": "chỉ đạo tại đơn vị và cấp độ kịch bản ứng phó phù hợp",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "5dc7691c-1036-41fb-adb8-0591ddbaaf6c",
+      "nodeId": "doi-tuong",
+      "text": "chỉ đạo tại TSC Văn phòng \nBM Du thao QD \nBCD tai TSC",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "6a6ea6d2-9cd4-4c2a-ad0f-0273964ab5df",
+      "nodeId": "doi-tuong",
+      "text": "công đoàn \n- Phối hợp Ban QLRRHĐ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "a2a59204-bb25-4206-a41b-7b5065968fc9",
+      "nodeId": "doi-tuong",
+      "text": "đầu mối tại TSC",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "45d450e3-f120-4fab-8797-285f7330a7de",
+      "nodeId": "doi-tuong",
+      "text": "giao dịch",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "3b506051-667e-4edd-b33f-3109d9c9d034",
+      "nodeId": "doi-tuong",
+      "text": "hành Danh mục Thông tin bí mật",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "f6b3192e-9b2c-46f2-92d1-a9803d953987",
+      "nodeId": "doi-tuong",
+      "text": "hành kèm Quyết định số 1900",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "37d565fe-88d8-481c-913f-449692b61417",
+      "nodeId": "doi-tuong",
+      "text": "hành kèm theo Công văn số",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "25f2f5b7-59c2-4c94-8c7e-6ab1ec79d6ab",
+      "nodeId": "doi-tuong",
+      "text": "hành kèm theo Quyết \nđịnh số 621",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "1dcb0057-4cb2-4c1a-bc4b-a3919721dc5f",
+      "nodeId": "doi-tuong",
+      "text": "hành kèm theo Quyết định số 1339",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "226e1fe5-6cd4-4a5d-a46a-26db88edfa5b",
+      "nodeId": "doi-tuong",
+      "text": "hành kèm theo Quyết định số 643",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "31ed6e09-2863-4491-a34c-c95948f05ed5",
+      "nodeId": "doi-tuong",
+      "text": "hành lần",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "78dbde17-4a97-4b8c-827e-a1a80806859c",
+      "nodeId": "doi-tuong",
+      "text": "hành theo Quyết định số 4890",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "74b6e795-0e79-402e-b8e3-4978dfdd32eb",
+      "nodeId": "doi-tuong",
+      "text": "Kiểm soát",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "2471465a-75e5-464c-b18f-603629cef9ad",
+      "nodeId": "doi-tuong",
+      "text": "KT",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "5d326bf5-9d6e-40a1-9c99-8c8d45cfece4",
+      "nodeId": "doi-tuong",
+      "text": "Lãnh \nđạo \nLãnh đạo phụ \ntrách đơn vị \nNgày 15",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "2e486b0d-7c2f-49e4-83e7-d76913879392",
+      "nodeId": "doi-tuong",
+      "text": "Lãnh đạo",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "7cace610-2e62-4b2d-bfb8-6739d639ce68",
+      "nodeId": "doi-tuong",
+      "text": "Lãnh đạo từng lần",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "406cdfaa-6c9c-4aa7-aed0-27b53a3d1166",
+      "nodeId": "doi-tuong",
+      "text": "ngừa",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "5c070adf-0d95-4a64-a0dc-8c08a2dbb50d",
+      "nodeId": "doi-tuong",
+      "text": "ngừa chủ động",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "d1eecf71-1d78-46d8-a4e4-22c2a58b0188",
+      "nodeId": "doi-tuong",
+      "text": "ngừa và xử lý khủng hoảng truyền thông",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "5674c1e5-db52-4e33-9173-e0b4ab647070",
+      "nodeId": "doi-tuong",
+      "text": "ngừa và xử lý khủng hoảng truyền thông ban hành kèm Quyết địn",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "e7d59edf-c94e-4bf8-bcbc-16d019c0f1dc",
+      "nodeId": "doi-tuong",
+      "text": "Pháp chế tổ chức phòng ngừa và xử lý khủng hoảng truyền \nthôn",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "d319ce3f-e4a8-4f1a-a6bf-36de78ebc095",
+      "nodeId": "doi-tuong",
+      "text": "QLRRHĐ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "260fafdc-72f7-44e6-80d4-17c42ffcb4de",
+      "nodeId": "doi-tuong",
+      "text": "Quản lý tòa nhà",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "e1b50f84-bb0f-490a-8abe-c2ed6bf5fe4e",
+      "nodeId": "doi-tuong",
+      "text": "tại TSC ở Hà Nội đề xuất tổ chức diễn tập hoạt động tại địa đ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "28f9b263-fe2f-41c2-a5c6-19b5c537fdaf",
+      "nodeId": "doi-tuong",
+      "text": "TCNS \n- Hướng dẫn",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "4b45b5eb-1567-4d5b-9f9d-9257a40ea4b4",
+      "nodeId": "doi-tuong",
+      "text": "TSC",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "d4251b11-e264-4ef8-9544-86de4997ab36",
+      "nodeId": "doi-tuong",
+      "text": "TSC \n- Đầu mối",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "7057524c-1367-4b30-84ee-1ca689c5bfb8",
+      "nodeId": "doi-tuong",
+      "text": "TSC \n- Đầu mối triển khai phương án bảo đảm an toàn cơ sở vật",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "449b68f1-b9ba-4b9f-b619-045a879dada3",
+      "nodeId": "doi-tuong",
+      "text": "TSC \n- Xây dựng tài liệu",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "ae557670-a083-4ffd-85e2-d273bad2afa3",
+      "nodeId": "doi-tuong",
+      "text": "TSC \nĐầu mối",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "822370ce-5100-4b44-a42e-215c07bc1c7a",
+      "nodeId": "doi-tuong",
+      "text": "TSC \nHN",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "eac8bf7a-a845-4df0-87af-e043530056dd",
+      "nodeId": "doi-tuong",
+      "text": "TSC \nngoài địa bàn Hà Nội phối hợp với các Văn phòng đại diện",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "4c12ba83-a5a7-4ee5-8194-feef2cefe897",
+      "nodeId": "doi-tuong",
+      "text": "TSC \ntheo CNNV \nđầu mối  \nVăn \nphòng \nTSC \nBan \nTCNS \nBan \nTT",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "183822a7-639d-4369-a34f-c4b8ddd46248",
+      "nodeId": "doi-tuong",
+      "text": "TSC có nhiều hơn 1 địa điểm làm việc hàng ngày",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "22823bfa-a15c-4d0a-979e-267d504e6785",
+      "nodeId": "doi-tuong",
+      "text": "TSC cùng địa bàn trú đóng hoặc trong cùng tòa nhà làm việc",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "4f859125-2ec9-48f0-8fdc-ff0392d21dab",
+      "nodeId": "doi-tuong",
+      "text": "TSC cùng địa bàn trú đóng lập kế hoạch",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "e4e82ca9-efaa-4b4f-83a5-ba0fe36f9965",
+      "nodeId": "doi-tuong",
+      "text": "TSC đầu mối",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "e9066234-658e-4ce6-8d09-5487e13c16cd",
+      "nodeId": "doi-tuong",
+      "text": "TSC di chuyển",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "fa3f302e-e01a-4e38-aba5-c6e47859efa5",
+      "nodeId": "doi-tuong",
+      "text": "TSC diễn tập BCP sự kiện bất khả kháng tại các tòa nhà làm",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "d32c62fe-cb9a-4259-ab5d-ec8f02ab733f",
+      "nodeId": "doi-tuong",
+      "text": "TSC ngoài địa bàn Hà \nNội",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "9c505eed-57c4-4ff6-ac2f-e1d4fbd1bf7b",
+      "nodeId": "doi-tuong",
+      "text": "TSC ngoài địa bàn Hà Nội",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "8bd2c63b-a72e-46f9-8683-94802bd50ef2",
+      "nodeId": "doi-tuong",
+      "text": "TSC NGOÀI ĐỊA BÀN HÀ NỘI",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "123fe6ae-baf3-4ee4-9f2c-da1514b8556e",
+      "nodeId": "doi-tuong",
+      "text": "TSC tại Hà Nội",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "afe6703b-87b9-4515-92c8-45937f3f4540",
+      "nodeId": "doi-tuong",
+      "text": "TSC TẠI HÀ NỘI \n- Ban TSC",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "d7be1027-c791-4d66-9c15-db91176b6ed9",
+      "nodeId": "doi-tuong",
+      "text": "TSC triển khai BCP sự kiện bất khả kháng tại các tòa nhà là",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "4b57757c-d060-4455-b3c3-b1f8eeb698c3",
+      "nodeId": "doi-tuong",
+      "text": "TSC triển khai đối với sự kiện bất khả kháng tại các tòa nh",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "0260a347-b317-4663-8ef9-e4d00fe427e4",
+      "nodeId": "doi-tuong",
+      "text": "TSC trong tòa nhà làm việc \nGiám   đốc \nđơn vị \nKhi phát sinh",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "6c6d4627-bc2c-4459-9931-f70bd51fadff",
+      "nodeId": "doi-tuong",
+      "text": "TSC xây dựng và diễn tập BCP sự kiện bất khả kháng tại các",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "736cfc78-dbe8-4b3b-b1f3-7994dc82547a",
+      "nodeId": "doi-tuong",
+      "text": "TT",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "b607331e-45d6-4445-94e5-522119992685",
+      "nodeId": "doi-tuong",
+      "text": "và các đơn vị trực thuộc của BIDV",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "06fd130f-be07-465f-a34e-81777b1b72d2",
+      "nodeId": "doi-tuong",
+      "text": "YC BCP BKK TẠI TSC \nHN",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "970ab6d6-e450-4d68-a8ef-dc14678775a6",
+      "nodeId": "bieu-mau",
+      "text": "2",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "f4ec248b-cfeb-4398-b0af-30fbfb975e91",
+      "nodeId": "van-ban-lien-quan",
+      "text": "biểu",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "99d90b2f-701c-4dbb-9141-2d725d5741fc",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Biểu",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "8c4b3a05-d3d9-4af9-933b-1ec7c3d58d88",
+      "nodeId": "van-ban-lien-quan",
+      "text": "chỉ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "a3e40a87-1837-4854-b126-f3d997f873d5",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Chính",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "6185d2c0-430d-4593-a3ce-8d7c04355974",
+      "nodeId": "van-ban-lien-quan",
+      "text": "chủ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "048174b6-ebf4-4089-9443-c8bf5f894b44",
+      "nodeId": "van-ban-lien-quan",
+      "text": "chức",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "df32d497-52e0-430b-bee4-9c6d748c947a",
+      "nodeId": "van-ban-lien-quan",
+      "text": "CNNV",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "28df2c36-374c-46a7-ae95-4a6747d8e074",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Công",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "614063a7-3ea8-4b57-b2cd-708ec9bd78ad",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Điều",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "c244e498-4cfc-4590-8cde-352f4686dc71",
+      "nodeId": "van-ban-lien-quan",
+      "text": "dõi",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "9f5b9ed3-e038-4475-b6b5-ce7e8083cda7",
+      "nodeId": "van-ban-lien-quan",
+      "text": "hướng",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "f7f252b8-63be-4043-b826-c1836a07e127",
+      "nodeId": "van-ban-lien-quan",
+      "text": "lịch",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "a0a553a6-ee7a-4dfc-8de0-33bfa4cbb01f",
+      "nodeId": "van-ban-lien-quan",
+      "text": "mục",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "2abddac4-eadd-4b51-9b50-19bb88b6be4f",
+      "nodeId": "van-ban-lien-quan",
+      "text": "nguyên",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "14108f58-3180-442e-a990-f37198bbf0a0",
+      "nodeId": "van-ban-lien-quan",
+      "text": "phương",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "f1a75211-9ad9-48e6-bcaf-2c7637446458",
+      "nodeId": "van-ban-lien-quan",
+      "text": "quy",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "bf8d8e3a-d70d-4962-b28d-32d0c6433822",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Quy",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "0373df9a-9581-45a6-bc6c-fccad32a7d7c",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Quyết",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "8bc0d1a4-7083-4bad-a1af-3bd5ba4b30bd",
+      "nodeId": "van-ban-lien-quan",
+      "text": "thang",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "4ad82081-6dec-4a18-8f9f-a8ea9ed06709",
+      "nodeId": "van-ban-lien-quan",
+      "text": "thông",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "aaa7cba6-0c6f-41a4-8878-b2d3541b72b8",
+      "nodeId": "van-ban-lien-quan",
+      "text": "yêu",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "860cdd4d-f0f7-4afe-ac32-5c6c66b1dd11",
+      "nodeId": "noi-dung",
+      "text": "1. Sự kiện mất tài liệu quan trọng ngoài hệ thống CNTT",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "db4d7caa-edef-4867-8a15-6018c009fceb",
+      "nodeId": "noi-dung",
+      "text": "2. Sự kiện bất khả kháng:\na. Sự kiện cháy nổ \nb. Sự kiện dịch bệnh nguy hiểm \nc. Sự kiện thiên tai (bão lũ, sạt lở, động đất...) \nd. Sự kiện mất điện \ne. Sự kiện mất an ninh an toàn (chiến tranh, biểu tình, khủng bố...) \nTrường hợp các văn bản quy phạm pháp luật, cơ quan có thẩm quyền có quy định khác \nvới nội dung tại Cẩm nang này thì thực hiện theo quy định của Nhà nước, pháp luật trong \ntừng thời kỳ.  \nMục 2: Đối tượng áp dụng \nCẩm nang này được áp dụng thống nhất tại các Ban và các đơn vị trực thuộc của BIDV. \nCác đơn vị trực thuộc của BIDV tại nước ngoài bảo đảm tuân thủ Cẩm nang này và quy định \ncủa nước sở tại; trường hợp pháp luật nước sở tại có quy định khác thì thực hiện theo quy \nđịnh của nước sở tại và có báo cáo về TSC (qua Ban QLRRHĐ&TT). \n \n \n \n \n \n                                                 \n1\n Sự kiện hệ thống CNTT bị sự cố và mất tài liệu, cơ sở dữ liệu quan trọng thuộc hệ thống CNTT thực \nhiện theo Quy chế an toàn, bảo mật hệ thống thông tin ban hành kèm theo Quyết định số 1339/QĐ-\nBIDV ngày 05/12/2024 của HĐQT, Quy định Quản lý, sử dụng các hệ thống CNTT số 11713/QyĐ-\nBIDV ngày 31/12/2025 và các văn bản liên quan trong từng thời kỳ. \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n5 \nCHƯƠNG II: LƯU ĐỒ CÔNG VIỆC VÀ TRÁCH NHIỆM CÁC ĐƠN VỊ TRONG XÂY DỰNG VÀ TRIỂN KHAI BCP \nMỤC 1: LƯU ĐỒ CÔNG VIỆC CHÍNH \nI. BAN TSC TẠI HÀ NỘI \n- Ban TSC: Đầu mối sự kiện mất tài liệu quan trọng nằm ngoài hệ thống CNTT tại đơn vị \n- Văn phòng TSC: Đầu mối, phối hợp với các Ban TSC triển khai đối với sự kiện bất khả kháng tại các tòa nhà làm việc tại Hà Nội \n \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n6 \nII. BAN TSC NGOÀI ĐỊA BÀN HÀ NỘI, TTCNTT, TRƯỜNG ĐTCB, VPĐD, CHI NHÁNH  \nĐầu mối sự kiện mất tài liệu quan trọng nằm ngoài hệ thống CNTT và sự kiện bất khả kháng tại đơn vị \n \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n7 \nMỤC 2: TRÁCH NHIỆM CÁC ĐƠN VỊ \nI. SƠ ĐỒ TRÁCH NHIỆM CÁC ĐƠN VỊ TRONG XÂY DỰNG VÀ TRIỂN KHAI BCP \n \nR Responsible Đầu mối \nA Accountable Phê duyệt \nC Consulted Phối hợp/TGYK \nI Informed Nhận báo cáo/Thông tin \n \nCông cụ/ Nội \ndung \nCông việc \nchi tiết \nĐơn vị \nCấp có thẩm \nquyền \nCác Ban \nTSC/ Chi \nnhánh \nBan \nQLRRHĐ\n&TT \nBan TSC \ntheo CNNV \nđầu mối  \nVăn \nphòng \nTSC \nBan \nTCNS \nBan \nTT&TH \nTT \nCNTT \nVPĐD \ntrong \nnước \nVP \nCông \nđoàn \nCác \nchi \nnhánh \nXây dựng BCP Xây dựng BCP tại đơn vị \nA R I C C C C C C C C \nXây dựng BCP ứng phó sự kiện \nbất khả kháng tại tòa nhà TSC \ntại Hà Nội \nA C I C R C C C C C \n \n \nDiễn tập BCP Diễn tập BCP tại đơn vị \nA R I C C C C C C C C \nDiễn tập BCP ứng phó sự kiện \nbất khả kháng tại tòa nhà TSC \ntại Hà Nội \nA C I C R C C C C C  \nTriển khai ứng \nphó sự kiện \nKích hoạt BCP và triển khai \nứng phó, xử lý sự kiện \nA R I C C C C C C C C \n \n \n \n \n \n \n \n \n \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n8 \nII. TRÁCH NHIỆM CỤ THỂ CỦA CÁC ĐƠN VỊ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "4004cb55-274a-4e1f-8598-1687826dce95",
+      "nodeId": "noi-dung",
+      "text": "1. Trách nhiệm thực hiện\na) Xây dựng và diễn tập BCP \nSTT Đơn vị Nội dung thực hiện \nThẩm quyền \nphê duyệt \nThời hạn \nhoàn thành \n1 Các Ban TSC tại Hà Nội (bao gồm Văn phòng TSC) \n- Đầu mối xây dựng và diễn tập BCP sự kiện mất tài liệu quan trọng nằm ngoài hệ thống CNTT tại đơn vị \n- Phối hợp với Văn phòng TSC diễn tập BCP sự kiện bất khả kháng tại các tòa nhà làm việc tại Hà Nội \n  \n- Xây dựng/ rà soát  BCP và lập kế hoạch diễn tập BCP sự kiện mất tài liệu quan trọng nằm ngoài \nhệ thống CNTT (nếu có) của đơn vị theo mục 2, chương III Cẩm nang này \nGiám đốc đơn \nvị \nNgày 10/06 \nhàng năm \n  \n- Diễn tập BCP sự kiện mất tài liệu quan trọng ngoài hệ thống CNTT (nếu có) và báo cáo kết quả. Ngày 10/11 \nhàng năm \n  \n- Tham gia diễn tập BCP sự kiện bất khả kháng tại tòa nhà TSC Hà Nội theo lịch thông báo của \nVăn phòng TSC. \nTrường hợp các Ban TSC có nhiều hơn 1 địa điểm làm việc hàng ngày, bố trí diễn tập thay thế \ngiữa các địa điểm làm việc thì chủ động diễn tập và gửi báo cáo kết quả về Ban QLRRHĐ&TT. \n  \n- Báo cáo kết quả xây dựng, diễn tập và đánh giá hiệu quả BCP gửi về Ban QLRRHĐ&TT     \nBM04a.xlsx\n \n2 Văn phòng TSC \n- Đầu mối, phối hợp với các Ban TSC xây dựng và diễn tập BCP sự kiện bất khả kháng tại các tòa nhà làm việc tại Hà Nội \n  \n- Xây dựng, rà soát BCP ứng phó sự kiện bất khả kháng tại tòa nhà TSC Hà Nội theo mục 2, \nchương III Cẩm nang này \nLãnh  đạo  phụ \ntrách đơn vị \n \nNgày 10/06 \nhàng năm \n \n  \n- Đầu mối xây dựng kế hoạch diễn tập BCP sự kiện bất khả kháng tại tòa nhà TSC Hà Nội và thông \nbáo tới đơn vị liên quan, gồm: \n+ Triển khai ứng phó, xử lý các sự kiện bất khả kháng tại các tòa nhà của TSC ở Hà Nội. \n+ Triển khai hoạt động tại địa điểm làm việc thay thế: Văn phòng TSC đầu mối, phối hợp các Ban \ntại TSC ở Hà Nội đề xuất tổ chức diễn tập hoạt động tại địa điểm làm việc thay thế phù hợp khả \nnăng bố trí nguồn lực thực tế. \n  \n- Tổ chức diễn tập BCP ứng phó sự kiện bất khả kháng tại TSC, hoạt động tại địa điểm làm việc \nthay thế tại Hà Nội và báo cáo kết quả thực hiện. \nNgày 10/11 \nhàng năm \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n9 \n  \n- Báo cáo kết quả xây dựng, diễn tập và đánh giá hiệu quả BCP gửi về Ban QLRRHĐ&TT  \nBM04b.xlsx\n \nGiám đốc đơn \nvị \n3 Ban TSC ngoài địa bàn Hà Nội, TTCNTT, Trường ĐTCB, VPĐD, Chi nhánh \n- Đầu mối xây dựng và diễn tập BCP sự kiện mất tài liệu quan trọng nằm ngoài hệ thống CNTT và sự kiện bất khả kháng tại đơn vị \n  \n- Xây dựng, rà soát BCP và lập kế hoạch diễn tập BCP các sự kiện tại đơn vị theo mục 2, chương \nIII Cẩm nang này \nGiám đốc đơn \nvị \nNgày 10/06 \nhàng năm \n  \n- Diễn tập theo kế hoạch được phê duyệt và báo cáo kết quả thực hiện. Trong đó Các Ban TSC \nngoài địa bàn Hà Nội phối hợp với các Văn phòng đại diện cùng địa bàn trú đóng hoặc các chi \nnhánh cùng tòa nhà làm việc để diễn tập phương án ứng phó, xử lý các sự kiện bất khả kháng và \nhoạt động tại địa điểm làm việc thay thế (nếu có). \nNgày 10/11 \nhàng năm \n  \n- Báo cáo kết quả xây dựng, diễn tập và đánh giá hiệu quả BCP gửi về Ban QLRRHĐ&TT  \nBM04c.xlsx\n \n  \n4 Ban QLRRHĐ&TT, TTCNTT \n  \n- TTCNTT: Báo cáo kết quả xây dựng, diễn tập và đánh giá hiệu quả DRP và gửi về Ban QLRRHĐ&TT. \nBM05.xlsx\n \nGiám đốc đơn \nvị \nNgày 10/11 \nhàng năm \n  \n- Ban QLRRHĐ&TT: Tổng hợp báo cáo của các đơn vị trong toàn hệ thống và báo cáo Ban Lãnh \nđạo \nLãnh đạo phụ \ntrách đơn vị \nNgày 15/12 \nhàng năm \nb) Triển khai ứng phó, xử lý khi có sự kiện xảy ra \nSTT Đơn vị Nội dung thực hiện Thẩm quyền \nphê duyệt \nThời hạn hoàn thành \n1 Các đơn vị \n- Các Ban TSC tại Hà Nội (bao gồm Văn phòng TSC): (i) Đầu mối triển khai BCP sự kiện mất tài liệu quan trọng nằm ngoài hệ thống \nCNTT tại đơn vị; (ii) Phối hợp với Văn phòng TSC triển khai BCP sự kiện bất khả kháng tại các tòa nhà làm việc tại Hà Nội. \n- Ban TSC ngoài địa bàn Hà Nội, TTCNTT, Trường ĐTCB, VPĐD, Chi nhánh: Đầu mối triển khai BCP sự kiện mất tài liệu quan \ntrọng nằm ngoài hệ thống CNTT và sự kiện bất khả kháng tại đơn vị \n  \n- Chủ động theo dõi diễn biến, tác động ảnh hưởng của sự kiện; kích hoạt cấp độ kịch bản \nứng phó phù hợp và triển khai ứng phó, xử lý sự kiện tại đơn vị. \nGiám   đốc \nđơn vị \nKhi phát sinh sự kiện  \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n10 \n- Chủ động triển khai công tác truyền thông đối với các khủng hoảng ở cấp độ tiềm ẩn và \nthấp theo quy định; xử lý khủng hoảng mức độ trung bình trở lên theo sự hướng dẫn, hỗ \ntrợ từ Ban TT&TH, đồng thời theo dõi, cập nhật thông tin; tổng hợp và báo cáo kết quả xử \nlý khủng hoảng truyền thông về TSC theo quy định. \n  \n- Gửi báo cáo về TSC (qua Ban QLRRHĐ&TT- email banqlrrhd@bidv.com.vn) theo biểu \nmẫu báo cáo tại Khoản I.2, Mục 3, chương III Cẩm nang này. \nLưu ý: thông tin báo cáo kích hoạt các cấp độ kịch bản trong vòng 02 giờ đồng hồ kể từ khi \nkích hoạt thực hiện theo hướng dẫn tại Khoản I.1, Mục 3, Chương III, Cẩm nang này. \n02 ngày làm việc kể từ \nkhi  kích  hoạt  BCP \n(hoặc TSC hướng dẫn \ntừng thời kỳ) \n  \nBáo cáo kết quả ứng phó, xử lý sự kiện bất khả kháng tại đơn vị tới cơ quan chức năng Khi có yêu cầu \n2 TTCNTT \nĐầu mối triển khai Kế hoạch phục hồi thảm họa do hệ thống CNTT bị sự cố và mất tài liệu, cơ sở dữ liệu quan trọng thuộc hệ thống CNTT \n  \n- Gửi  báo  cáo  kết  quả  ứng  phó,  xử  lý  về  TSC  (qua  Ban  QLRRHĐ&TT- email \nbanqlrrhd@bidv.com.vn) bao gồm các nội dung: \n+ Thông tin sự kiện và đánh giá mức độ ảnh hưởng \n+ Thông tin các biện pháp đã xử lý và kết quả thực hiện \n+ Các nội dung phát sinh khác và đề xuất (nếu có) \n \n05 ngày làm việc kể từ \nkhi phát hiện sự cố hệ \nthống  CNTT  mức  3 \nhoặc 4 \n2\n \n  \n- Báo cáo cơ quan chức năng kết quả ứng phó, xử lý gián đoạn hoạt động do hệ thống CNTT \nbị sự cố và mất tài liệu, cơ sở dữ liệu quan trọng. \n \nKhi có yêu cầu \n3 \nVăn phòng TSC \nĐầu mối, phối hợp với các Ban TSC triển khai BCP sự kiện bất khả kháng tại các tòa nhà làm việc tại Hà Nội \n  \nBáo cáo thông tin triển khai các biện pháp ứng phó sự kiện bất khả kháng tại các tòa nhà \nTSC tại Hà Nội hoặc theo chỉ đạo của Ban Lãnh đạo từng lần (qua Ban QLRRHĐ&TT- \nemail banqlrrhd@bidv.com.vn). Bao gồm các nội dung: \n- Thông tin về sự kiện và đánh giá mức độ ảnh hưởng (nếu có) \n- Các biện pháp đã triển khai: \n+ Biện pháp ứng phó, xử lý sự kiện tại tòa nhà làm việc và các biện pháp về y tế, cứu nạn, \nbảo vệ tài sản, con người \n+ Chuẩn bị địa điểm làm việc thay thế, điều kiện làm việc  \n+ Phối hợp với cơ quan chức năng, Ban Quản lý tòa nhà \n+ Công tác hỗ trợ các Ban TSC trong tòa nhà làm việc \nGiám   đốc \nđơn vị \nKhi phát sinh sự kiện \n                                                 \n2\n Theo thang phân loại 05 mức độ sự cố CNTT tại Quy chế an toàn, bảo mật hệ thống thông tin ban hành kèm theo Quyết định số 1339/QĐ-BIDV ngày 05/12/2024 của HĐQT, Quy định \nQuản lý, sử dụng các hệ thống CNTT số 11713/QyĐ-BIDV ngày 31/12/2025 và các văn bản liên quan trong từng thời kỳ \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n11 \n- Các biện pháp triển khai tiếp theo. \n  \nBáo cáo cơ quan chức năng thông tin triển khai các biện pháp ứng phó sự kiện bất khả \nkháng tại các tòa nhà TSC tại Hà Nội  \nLãnh đạo phụ \ntrách đơn vị \nKhi có yêu cầu \n4 Ban QLRRHĐ&TT \n  \n- Tiếp nhận thông tin, diễn biến sự kiện xảy ra tại các đơn vị, đánh giá nguy cơ, tác động của \nsự kiện, báo cáo Ban Lãnh đạo, Ban Chỉ đạo hệ thống (nếu cần) để chỉ đạo, xử lý. \n- Hướng dẫn các đơn vị về quản lý duy trì hoạt động liên tục khi có sự kiện xảy ra. \nGiám   đốc \nđơn vị \nKhi tiếp nhận thông tin \nsự kiện phát sinh \n  \n- Tổng hợp báo cáo tình hình, kết quả thực hiện ứng phó, xử lý sự kiện của các đơn vị trong \ntoàn hệ thống, báo cáo Ban Lãnh đạo, Ban chỉ đạo hệ thống (nếu cần) \nGiám   đốc \nđơn vị \n02 ngày làm việc kể từ \nkhi nhận được đầy đủ \nbáo cáo của các đơn vị \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n12",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "71243815-dd58-4048-80ba-3ddbb791c85e",
+      "nodeId": "noi-dung",
+      "text": "2. Trách nhiệm hướng dẫn, hỗ trợ\nSTT Đơn vị Nội dung hướng dẫn, hỗ trợ \n1 Ban \nQLRRHĐ&TT \n- Hướng dẫn các đơn vị phương pháp xây dựng, diễn tập BCP khi có yêu cầu. \n- Phối hợp với Trường Đào tạo cán bộ xây dựng chương trình đào tạo theo quy định; xây dựng tài liệu đào tạo và cử cán bộ \nđào tạo về quản lý duy trì hoạt động liên tục theo thông báo. \n- Rà soát, theo dõi kết quả xây dựng, diễn tập BCP toàn hệ thống thông qua báo cáo định kỳ hàng năm của các đơn vị \nhoặc các đợt kiểm tra nội bộ (nếu có). \n2 Các Ban TSC \n- Xây dựng tài liệu, quy trình hướng dẫn đối với nghiệp vụ đầu mối quản lý trong trường hợp xảy ra sự kiện gián đoạn \nhoạt động (nếu cần). \n- Hỗ trợ các đơn vị trong xây dựng và triển khai BCP theo chức năng nhiệm vụ và nghiệp vụ đầu mối quản lý. \n3 TTCNTT \n- Hướng dẫn, hỗ trợ các đơn vị kết nối hệ thống CNTT toàn ngành khi làm việc tại địa điểm dự phòng, địa điểm khác và \ncác kênh liên lạc nội bộ dự phòng. \n- Hướng dẫn các đơn vị xây dựng phương án CNTT về tài khoản truy cập từ xa khi có yêu cầu. \n- Hỗ trợ các đơn vị về phương án hạ tầng, hệ thống CNTT phục vụ diễn tập BCP khi có yêu cầu. \n4 Văn phòng \nTSC \n- Đầu mối triển khai phương án bảo đảm an toàn cơ sở vật chất, an ninh trật tự và sức khỏe cán bộ nhân viên tại TSC. \n- Đầu mối phối hợp, báo cáo các cơ quan chức năng về triển khai biện pháp ứng phó với các sự kiện bất khả kháng và \nliên hệ cơ sở y tế điều trị cho cán bộ tại TSC. \n- Hỗ trợ các Ban TSC di chuyển, chuẩn bị cơ sở vật chất, điều kiện làm việc tại địa điểm làm việc hàng ngày, địa điểm \nlàm việc thay thế, địa điểm khác. \n5 Ban TT&TH \n- Tư vấn, hướng dẫn, hỗ trợ các đơn vị phát sinh tình huống gây khủng hoảng truyền thông (nếu cần). \n- Xây dựng kế hoạch xử lý khủng hoảng truyền thông từ cấp độ trung bình trở lên, theo dõi, báo cáo kết quả xử lý. \n- Phối hợp với các đơn vị có liên quan, Ban KT&GSTT, Ban Pháp chế tổ chức phòng ngừa và xử lý khủng hoảng truyền \nthông theo phương án đã được phê duyệt. \n6 Ban TCNS \n- Hướng dẫn, hỗ trợ các đơn vị phương án nhân sự phù hợp với nhu cầu đề nghị của các đơn vị trong hệ thống. \n- Hướng dẫn chấm công, lương và các chế độ đối với người lao động trong trường hợp bị ảnh hưởng sự kiện. \n7 VPĐD trong \nnước, Chi \nnhánh \nHỗ trợ các Ban TSC cùng địa bàn trú đóng hoặc trong cùng tòa nhà làm việc: \n- Xây dựng phương án cơ sở vật chất, hậu cần trong các cấp độ kịch bản và quy trình, biện pháp phòng ngừa, ứng phó, \nxử lý các sự kiện bất khả kháng tại các địa điểm làm việc. \n- Hỗ trợ các Ban TSC cùng địa bàn trú đóng lập kế hoạch, tổ chức diễn tập và triển khai ứng phó, xử lý các sự kiện bất \nkhả kháng, hoạt động tại địa điểm làm việc thay thế (nếu có). \n8 Văn phòng \ncông đoàn \n- Phối hợp Ban QLRRHĐ&TT tuyên truyền, phổ biến nội dung BCP tới người lao động  \n- Hướng dẫn công tác hỗ trợ người lao động khắc phục ảnh hưởng, hậu quả do sự kiện gây ra (nếu cần). \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n13 \nCHƯƠNG III: HƯỚNG DẪN PHƯƠNG PHÁP  \nXÂY DỰNG VÀ TRIỂN KHAI BCP \nMỤC 1: MỤC TIÊU THỜI GIAN PHỤC HỒI HOẠT ĐỘNG (RTO)  \nMục tiêu thời gian phục hồi hoạt động (RTO) là khoảng thời gian mục tiêu tối đa tính \ntừ thời điểm bắt đầu gián đoạn đến khi hoạt động được phục hồi, được xác định theo nguyên \ntắc đề cập tại Khoản 3a, Điều 9, Quy chế duy trì hoạt động liên tục\n3\n.  \nRTO được xác định lần lượt trên cơ sở: \na) Quy định của các cơ quan có thẩm quyền; \nb) Cam kết của BIDV với khách hàng, đối tác; \nc) Yêu cầu về thời gian tối đa phục hồi hoạt động:  \n- Nghiệp vụ Kho quỹ, Thanh toán, Thẻ và ATM, Ngân hàng điện tử, Thu chi hộ điện tử, \nTài trợ thương mại, Kinh doanh vốn tiền tệ, Tiền gửi, Tổng đài CSKH, CNTT:   \n+ Các giao dịch, hoạt động cung cấp sản phẩm dịch vụ trực tiếp tới khách hàng: trong 02 \ngiờ đồng hồ kể từ khi xảy ra gián đoạn hoạt động. \n+ Các hoạt động hỗ trợ liên quan: trong 03 giờ đồng hồ kể từ khi xảy ra gián đoạn hoạt \nđộng. \n- Các nghiệp vụ còn lại (Quản lý thông tin khách hàng, Tín dụng, Kiểm soát nội bộ, Kế \ntoán, Tổ chức nhân sự, Quản lý rủi ro, Tài chính quản lý tài sản và xây dựng cơ bản, Ngân hàng \nlưu ký...): trong 04 giờ đồng hồ kể từ khi xảy ra gián đoạn hoạt động. \n  \n                                                 \n3\n Hiện nay là Quy chế duy trì hoạt động liên tục ban hành kèm theo Quyết định số 643/QĐ-BIDV ngày 15/06/2026 \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n14 \nMỤC 2: XÂY DỰNG VÀ DIỄN TẬP BCP \nSTT Nội dung thực hiện Đơn vị Yêu cầu  Biểu mẫu  \nI XÂY DỰNG BCP \nXây dựng, duy trì và cập nhật BCP định kỳ hàng năm hoặc đột xuất khi có thay đổi \ntrọng yếu về môi trường hoạt động, công nghệ hoặc tổ chức \n1 Phân tích tác động kinh doanh và xác định mục tiêu phục hồi hoạt động \n  Các đơn vị \nYC BIA.docx\n \nBM BIA.docx\n \n2 Quyết định thành lập các Ban chỉ đạo \n Ban chỉ đạo hệ thống Ban QLRRHĐ&TT Theo  Điều  8 \nQuy chế duy trì \nhoạt động liên \ntục  \nBM Du thao QĐ \nBCD he thong.docx\n \n Ban chỉ đạo tại TSC Văn phòng \nBM Du thao QD \nBCD tai TSC.docx\n \n Ban chỉ đạo tại đơn \nvị \nCác đơn vị \nBM Du thao QD \nBCD tai don vi.docx\n \n3 Các phương án, biện pháp phòng ngừa, ứng phó và xử lý sự kiện, bảo đảm duy trì \nhoạt động liên tục \n Phương án BCP xây \ndựng tại đơn vị \nBan TSC tại Hà Nội (bao \ngồm cả Văn phòng) \nSK mất tài liệu quan trọng \nnằm ngoài hệ thống CNTT và \nbiện pháp duy trì hoạt động \nliên tục với SK bất khả kháng \nYC BCP BAN TSC \nHN.docx\n \nBM 01.docx\n \nBan TSC ngoài địa bàn Hà \nNội, TTCNTT, Trường \nĐTCB, VPĐD, Chi nhánh \nSK mất tài liệu quan trọng \nnằm ngoài hệ thống CNTT và \nbất khả kháng \nYC BCP CHI NHANH \nVA CAC DON VI CON LAI.docx\n \nBM 03.docx\n \n Phương án BCP sự \nkiện bất khả kháng \ntại TSC tại Hà Nội \nVăn phòng \nYC BCP BKK TẠI TSC \nHN.docx\n \nBM02.docx\n \nII LẬP KẾ HOẠCH VÀ TỔ CHỨC DIỄN TẬP BCP \nThử nghiệm, diễn tập BCP định kỳ tối thiểu hằng năm hoặc khi có thay đổi trọng \nyếu về môi trường hoạt động, công nghệ hoặc tổ chức \n  Các đơn vị \nYC DIEN TAP \nBCP.docx\n \nBM KH dien tap \nBCP.docx\n \nIII ĐÀO TẠO VÀ NÂNG CAO NHẬN THỨC \nTần suất theo yêu cầu từng loại hình đào tạo \n  Các đơn vị \nYC DAO TAO \nBCP.docx\n \n \nMỤC 3: ỨNG PHÓ, XỬ LÝ KHI CÓ SỰ KIỆN XẢY RA \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n15 \nCác đơn vị triển khai ứng phó, xử lý các sự kiện gián đoạn hoạt động phát sinh tại đơn \nvị theo phương châm “Phòng ngừa chủ động, ứng phó kịp thời, khắc phục hiệu quả”, trong \nđó bao gồm các công việc chính: \nI. KÍCH HOẠT BCP, TRIỂN KHAI ỨNG PHÓ SỰ KIỆN TẠI ĐƠN VỊ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "4bf0be1e-98f2-4246-9026-0ec2097b961b",
+      "nodeId": "noi-dung",
+      "text": "1. KÍCH HOẠT BCP\nThường xuyên nắm bắt thông tin chỉ đạo của Chính phủ, cơ quan chức năng và thông \ntin truyền thông trên các trang tin điện tử chính thống; chủ động theo dõi diễn biến, tác động \nảnh hưởng của sự kiện tới hoạt động của đơn vị để đánh giá, kích hoạt triển khai hoạt động \nBan chỉ đạo tại đơn vị và cấp độ kịch bản ứng phó phù hợp: \n- Cấp độ kịch bản 1 (nhẹ): Sự kiện xảy ra có nguy cơ gây gián đoạn hoạt động tại địa \nđiểm làm việc hàng ngày. \n- Cấp độ kịch bản 2 (trung bình): Sự kiện xảy ra dẫn đến gián đoạn một phần hoạt động \ntại địa điểm làm việc hàng ngày. Đơn vị báo cáo về TSC (qua Ban QLRRHĐ&TT) tối đa \ntrong vòng 2 giờ kể từ khi kích hoạt. \n- Cấp độ kịch bản 3 (nghiêm trọng) và cấp độ kịch bản khác từng thời kỳ: Sự kiện xảy \nra dẫn đến gián đoạn toàn bộ hoạt động tại địa điểm làm việc hàng ngày hoặc các cấp độ kịch \nbản khác theo hướng dẫn trong từng thời kỳ. Đơn vị báo cáo Lãnh đạo phụ trách đơn vị, đồng \nthời thông tin báo cáo tới Ban QLRRHĐ&TT tối đa trong vòng 2 giờ kể từ khi kích hoạt. \nĐồng thời, các đơn vị thực hiện báo cáo kích hoạt các cấp độ kịch bản về Trụ sở chính \n(qua Ban QLRRHĐ&TT) theo hướng dẫn tại mục 2 dưới đây.",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "52a585fd-9462-4a5a-ae52-b89f85e18ec4",
+      "nodeId": "noi-dung",
+      "text": "2. QUY TRÌNH ỨNG PHÓ SỰ KIỆN\nChi tiết hướng dẫn quy trình ứng phó đối với từng loại sự kiện theo bộ kịch bản tại Phụ \nlục 1 dưới đây \nPL01A SK Chay \nno.docx\nPL01B SK dich benh \nnguy hiem.docx\nPL01C SK thien \ntai.docx\nPL01D SK mat \ndien.docx\nPL01E SK mat an \nninh an toan.docx\nPL01F SK mat tai \nlieu quan trong.docx\n \nCác đơn vị báo cáo thông tin diễn biến, kết quả xử lý, khắc phục hậu quả sự kiện về Trụ \nsở chính (qua Ban QLRRHĐ&TT) theo Biểu mẫu 06 và hướng dẫn tại Phụ lục 1. \nLưu ý: Trường hợp trụ sở chi nhánh/PGD trong nước tạm ngừng giao dịch hoặc hoạt \nđộng luân phiên các phòng giao dịch, các đơn vị báo cáo cấp có thẩm quyền tại BIDV, Ban \nđầu mối tại TSC, cơ quan quản lý theo quy định của BIDV và hướng dẫn của TSC trong từng \nthời kỳ (hiện nay là Quy định về công tác mạng lưới của BIDV số 1245/QyĐ- BIDV ngày \n13/2/2026 của Tổng Giám đốc). \nII. XỦ LÝ CÁC TÌNH HUỐNG PHÁT SINH \nBước 2: Triển khai ứng phó \nvà khắc phục sự kiện \nNguyên tắc triển khai \nỨng phó và khắc phục  \nBước 1: Phát hiện, cảnh báo \nvà đánh giá mức độ rủi ro \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:50:18 25/06/2026\n\n16",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "dcc15386-82ab-4e04-a23c-b36dd2d30d88",
+      "nodeId": "noi-dung",
+      "text": "1. TRƯỜNG HỢP TRIỂN KHAI LÀM VIỆC TẠI ĐỊA ĐIỂM LÀM VIỆC THAY\nTHẾ, các đơn vị thực hiện:",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    },
+    {
+      "id": "532993e1-7e49-4602-9686-fee19c85efc1",
+      "nodeId": "noi-dung",
+      "text": "1. Đề xuất triển khai làm việc tại địa điểm làm việc thay thế, trình Lãnh đạo phụ trách\nđơn vị phê duyệt bao gồm tối thiểu các nội dung: Địa điểm địa điểm làm việc thay thế; Số \nlượng/danh sách cán bộ làm việc tại địa điểm làm việc thay thế; phạm vi công việc xử lý tại \nđịa điểm làm việc thay thế; thời gian triển khai làm việc tại địa điểm làm việc thay thế; đề \nxuất các công việc, đơn vị hỗ trợ, phối hợp triển khai thực hiện (nếu có).",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T15:09:10.264Z",
+      "source": "auto"
+    }
+  ],
+  "updatedAt": "2026-07-21T15:09:10.266Z",
+  "reviewer": "nguoi-duyet",
+  "classificationVersion": "1.0.0"
+}

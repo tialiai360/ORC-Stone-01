@@ -1,0 +1,7 @@
+# Recognition Spike — gitignore for local corpus & results
+
+dataset/local/
+dataset/RESULTS/
+lab/adapters/.cache/
+*.pdf
+!dataset/**/.gitkeep

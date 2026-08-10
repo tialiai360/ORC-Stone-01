@@ -1,0 +1,168 @@
+/**
+ * Provisional scorecards — update after dataset runs.
+ * Scores are research hypotheses grounded in known bank PDF families
+ * (mixed text, WM, stamp image, signature image, overlay), NOT final truth.
+ */
+
+import type { StrategyScorecard } from './strategies';
+
+export const PROVISIONAL_SCORECARDS: StrategyScorecard[] = [
+  {
+    strategyId: 'A',
+    name: 'Embedded Text only',
+    coverage: {
+      recognitionCoverage: 0.55,
+      visualCoverage: 0.4,
+      businessCoverage: 0.5,
+      knowledgeCoverage: 0.45,
+      unknownRegions: 12,
+    },
+    speed: 'fast',
+    memory: 'low',
+    complexity: 1,
+    maintainability: 5,
+    extensibility: 2,
+    suitabilityForOrc: 5,
+    realUserValue: 2,
+    notes:
+      'Fail trên scan / image text / stamp chữ. Clerk vẫn nhìn thấy chữ nhưng Stone “trống” → mất niềm tin.',
+  },
+  {
+    strategyId: 'B',
+    name: 'OCR Full Page',
+    coverage: {
+      recognitionCoverage: 0.88,
+      visualCoverage: 0.95,
+      businessCoverage: 0.8,
+      knowledgeCoverage: 0.55,
+      unknownRegions: 2,
+    },
+    speed: 'slow',
+    memory: 'high',
+    complexity: 3,
+    maintainability: 3,
+    extensibility: 3,
+    suitabilityForOrc: 2,
+    realUserValue: 3,
+    notes:
+      'Phủ cao nhưng chậm + OCR cả WM/ký → rác vào gợi ý. 50 VB/ngày dễ nghẽn nếu full-page mọi lần.',
+  },
+  {
+    strategyId: 'C',
+    name: 'Text + OCR Merge',
+    coverage: {
+      recognitionCoverage: 0.9,
+      visualCoverage: 0.95,
+      businessCoverage: 0.82,
+      knowledgeCoverage: 0.58,
+      unknownRegions: 2,
+    },
+    speed: 'slow',
+    memory: 'high',
+    complexity: 4,
+    maintainability: 2,
+    extensibility: 3,
+    suitabilityForOrc: 3,
+    realUserValue: 3,
+    notes: 'Merge khó (duplicate, offset). Vẫn trả full-page OCR cost gần như B.',
+  },
+  {
+    strategyId: 'D',
+    name: 'Gap → OCR ROI',
+    coverage: {
+      recognitionCoverage: 0.9,
+      visualCoverage: 0.92,
+      businessCoverage: 0.85,
+      knowledgeCoverage: 0.7,
+      unknownRegions: 3,
+    },
+    speed: 'medium',
+    memory: 'medium',
+    complexity: 3,
+    maintainability: 4,
+    extensibility: 5,
+    suitabilityForOrc: 5,
+    realUserValue: 5,
+    notes:
+      'Khớp pain thật: chữ font mới ≠ mực ảnh. OCR đúng lỗ → nhanh hơn B, ít rác hơn. Candidate #1.',
+  },
+  {
+    strategyId: 'E',
+    name: 'Layout First',
+    coverage: {
+      recognitionCoverage: 0.7,
+      visualCoverage: 0.75,
+      businessCoverage: 0.75,
+      knowledgeCoverage: 0.65,
+      unknownRegions: 6,
+    },
+    speed: 'fast',
+    memory: 'low',
+    complexity: 3,
+    maintainability: 4,
+    extensibility: 5,
+    suitabilityForOrc: 5,
+    realUserValue: 4,
+    notes:
+      'Không đủ một mình (layout ≠ chữ), nhưng là router bắt buộc cho G và discard chrome.',
+  },
+  {
+    strategyId: 'F',
+    name: 'Image Segmentation → OCR',
+    coverage: {
+      recognitionCoverage: 0.86,
+      visualCoverage: 0.9,
+      businessCoverage: 0.78,
+      knowledgeCoverage: 0.6,
+      unknownRegions: 4,
+    },
+    speed: 'medium',
+    memory: 'medium',
+    complexity: 4,
+    maintainability: 3,
+    extensibility: 4,
+    suitabilityForOrc: 4,
+    realUserValue: 4,
+    notes: 'Mạnh stamp/sig/patch; yếu khi text và ảnh chồng phức tạp. Bổ sung D.',
+  },
+  {
+    strategyId: 'G',
+    name: 'Hybrid Multi-pass',
+    coverage: {
+      recognitionCoverage: 0.96,
+      visualCoverage: 0.98,
+      businessCoverage: 0.92,
+      knowledgeCoverage: 0.85,
+      unknownRegions: 1,
+    },
+    speed: 'medium',
+    memory: 'medium',
+    complexity: 5,
+    maintainability: 3,
+    extensibility: 5,
+    suitabilityForOrc: 5,
+    realUserValue: 5,
+    notes:
+      'A nhanh trước → E route → D/F ROI → barcode/QR → human lasso. Early exit khi BC đủ. Target kiến trúc.',
+  },
+  {
+    strategyId: 'H',
+    name: 'Discovery slot',
+    coverage: {
+      recognitionCoverage: 0.99,
+      visualCoverage: 0.99,
+      businessCoverage: 0.95,
+      knowledgeCoverage: 0.9,
+      unknownRegions: 0,
+    },
+    speed: 'fast',
+    memory: 'low',
+    complexity: 2,
+    maintainability: 4,
+    extensibility: 5,
+    suitabilityForOrc: 5,
+    realUserValue: 5,
+    notes:
+      'Template HO + manual lasso + barcode: phủ nốt UR với chi phí thấp cho người dùng thành thạo.',
+  },
+];

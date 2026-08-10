@@ -1,0 +1,145 @@
+{
+  "documentId": "f4b976a3-2c77-4ef7-b01b-90b6f36a4809",
+  "version": 0,
+  "assignments": [
+    {
+      "id": "b4de8e40-2529-433b-8f80-b431f6431e8e",
+      "nodeId": "loai-van-ban",
+      "text": "thông báo",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "a100904f-6abc-4b95-9ccc-b0326db3a9e0",
+      "nodeId": "so-van-ban",
+      "text": "V/v",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "7a242797-5ad7-4ad9-9657-256cc5ca600f",
+      "nodeId": "doi-tuong",
+      "text": "Công nghệ xây dựng",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "53ad92c3-0452-4a8c-ba83-d25c06c07616",
+      "nodeId": "doi-tuong",
+      "text": "QLRRHĐ",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "8bfe5811-09a0-4f70-8f09-4b36cefe0f23",
+      "nodeId": "doi-tuong",
+      "text": "QUẢN LÝ RỦI RO \nHOẠT ĐỘNG VÀ THỊ TRƯỜNG \n \n \n \n \n    Đỗ Thị K",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "9ec36ab8-d118-4a86-b8b7-bbf3b1681e65",
+      "nodeId": "doi-tuong",
+      "text": "TSC",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "fc7f8863-cd8d-4f1c-8394-1dec9ba58325",
+      "nodeId": "doi-tuong",
+      "text": "TSC \n- Báo cáo kết quả BCP  của đơn vị theo \nBM 04a",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "2665caeb-8830-40e7-a6d7-38bb25429fc6",
+      "nodeId": "doi-tuong",
+      "text": "TSC  \ntại Hà Nội  \nVăn Phòng \n1 \nXây \ndựng",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "4ef61c5f-fb22-423b-bede-783f0e281463",
+      "nodeId": "doi-tuong",
+      "text": "TSC ngoài địa bàn \nHà Nội",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "96e52e3e-becc-4223-bb82-fec124349dc2",
+      "nodeId": "doi-tuong",
+      "text": "TSC ngoài địa bàn Hà \nNội",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "57bc37aa-0efa-459d-8a88-3d7338f3ff0c",
+      "nodeId": "doi-tuong",
+      "text": "TSC tại Hà Nội  \nBáo  cáo  kết  quả BCP  của đơn vị theo \nBM",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "1043a751-62b0-4e19-8322-c5696c485062",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Biểu",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "31e303fd-02a4-477e-b0f8-4b82518d0e0d",
+      "nodeId": "van-ban-lien-quan",
+      "text": "Quy",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "d35f0602-9278-41ab-8da0-3f3409136139",
+      "nodeId": "noi-dung",
+      "text": "1. Kế hoạch duy trì hoạt động liên tục đối với sự kiện hệ thống CNTT bị sự cố, mất\ntài liệu, cơ sở dữ liệu quan trọng thuộc hệ thống CNTT (DRP) \nTTCNTT đầu mối, phối hợp Ban Công nghệ xây dựng/cập nhật và triển khai diễn tập \nDRP theo Quy chế an toàn, bảo mật hệ thống thông tin; Quy định Quản lý, sử dụng các hệ \nthống thông tin và các văn bản liên quan trong từng thời kỳ.",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "b2332700-0200-4153-8b99-2805124f001a",
+      "nodeId": "noi-dung",
+      "text": "2. Kế hoạch duy trì hoạt động liên tục đối với sự kiện bất khả kháng, mất tài liệu\nquan trọng nằm ngoài hệ thống CNTT (BCP) \n \nSTT \nNội \ndung \nTSC \nBan TSC ngoài địa bàn \nHà Nội, TTCNTT, \nTrường ĐTCB, VPĐD, \nChi nhánh \nCác Ban TSC  \ntại Hà Nội  \nVăn Phòng \n1 \nXây \ndựng/ \ncập nhật \nBCP và \nlập kế \nhoạch \ndiễn tập \n- BCP  của đơn \nvị: \ntheo BM   01, \nhoàn thành \nkhông    muộn \nhơn    ngày \n10/08/2026. \n- BCP của đơn vị: theo BM 01, hoàn \nthành không   muộn  hơn  ngày \n10/08/2026. \n- BCP ứng  phó  sự kiện  bất  khả \nkháng  tại  tòa  nhà  TSC tại  Hà  Nội: \ntheo BM   02 hoàn   thành không \nmuộn  hơn  ngày 10/08/2026 và \nthông báo tới các Ban TSC. \nBCP  của  đơn  vị: theo \nBM    03,    hoàn    thành \nkhông  muộn hơn ngày \n10/08/2026. \nChi tiết hướng dẫn và biểu mẫu tại Mục 2, Chương III, Cẩm nang số 21955/BIDV-\nQLRRHĐ ngày 17/6/2026. \n2 \nTổ chức \ndiễn tập \nHoàn thành không muộn hơn ngày 10/11/2026 \nChi tiết hướng dẫn tại Khoản II, Mục 2, Chương III, Cẩm nang số 21955/BIDV-\nQLRRHĐ ngày 17/6/2026 \n \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:01:13 25/06/2026\n\n \n     Ban QLRRHĐ&TT                                                                                           \nII. Báo cáo kết quả thực hiện tại Chương trình Quản lý rủi ro hoạt động \nCác đơn vị thực hiện các báo cáo trên Chương trình Quản lý rủi ro hoạt động – Cấu \nphần kinh doanh liên tục (BCP) tại đường dẫn http://10.53.4.37:9080/RMS như sau:",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "565cfdd5-4376-42b4-bc4a-14ec1bbe0fee",
+      "nodeId": "noi-dung",
+      "text": "1. Báo cáo định kỳ\nSTT Đơn vị  Biểu mẫu báo cáo Thời hạn \n1 Báo cáo kết quả xây dựng, diễn tập và đánh giá hiệu quả BCP \nNgày \n10/11/2026 \na Ban TSC tại Hà Nội  \nBáo  cáo  kết  quả BCP  của đơn vị theo \nBM 04a/BCP \nb Văn phòng TSC \n- Báo cáo kết quả BCP  của đơn vị theo \nBM 04a/BCP \n- Báo cáo  kết  quả BCP  sự kiện  bất  khả \nkháng  tại tòa  nhà  TSC  tại  Hà  Nội theo \nBM 04b/BCP \nc Ban TSC ngoài địa bàn Hà \nNội,    TTCNTT, Trường \nĐTCB, VPĐD, Chi nhánh. \nBáo  cáo  kết  quả BCP  của đơn vị theo \nBM 04c/BCP \n2 Báo cáo kết quả xây dựng, diễn tập và đánh giá hiệu quả DRP \na TTCNTT Báo cáo theo BM 05/BCP",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    },
+    {
+      "id": "07fcb1bf-5e42-472c-a9d5-06656bb9a6e1",
+      "nodeId": "noi-dung",
+      "text": "2. Báo cáo đột xuất\nCác đơn vị thực hiện báo cáo thông tin diễn biến sự kiện phát sinh, thông tin kích hoạt \ncác cấp độ kịch bản, kết quả ứng phó, xử lý sự kiện tại đơn vị (nếu phát sinh) theo Biểu mẫu \nBM06 và gửi về TSC trong vòng 2 ngày làm việc kể từ khi kích hoạt BCP. \nLưu ý: Ban QLRRHĐ&TT chỉ tổng hợp dữ liệu trên Chương trình đối với các báo cáo \ncủa đơn vị có trạng thái là “Đã phê duyệt”. \n         Thông tin liên hệ: Cán bộ Đào Thị Lan Anh (máy lẻ 299-6761)./. \n \nNơi nhận: (01 bản) \n- Như trên (B.One); \n- PTGĐ Trần Phương (để b/c); \n- Lưu: VP, Ban QLRRHĐ&TT.   \nTL. TỔNG GIÁM ĐỐC \nGIÁM ĐỐC BAN QUẢN LÝ RỦI RO \nHOẠT ĐỘNG VÀ THỊ TRƯỜNG \n \n \n \n \n    Đỗ Thị Khiên \n \nTài liệu này thuộc sở hữu của BIDV và được trích xuất từ hệ thống Quản trị nội bộ toàn hàng (B.ONE).\ndungttv@bidv.com.vn Tô Thái Việt Dũng 09:01:13 25/06/2026",
+      "pageNumber": 1,
+      "createdAt": "2026-07-21T07:31:44.757Z",
+      "source": "auto"
+    }
+  ],
+  "updatedAt": "2026-07-21T07:31:44.758Z",
+  "reviewer": "nguoi-duyet",
+  "classificationVersion": "1.0.0"
+}

@@ -1,0 +1,16 @@
+{
+  "documentId": "cfee18c9-3668-418e-93ae-c33026b0b2c1",
+  "version": 1,
+  "assignments": [
+    {
+      "id": "a50e3638-25ea-4dc4-80ec-9825d0ddbb82",
+      "nodeId": "trich-yeu",
+      "text": "Thong bao hop HO",
+      "pageNumber": 1,
+      "createdAt": "2026-07-17T16:20:46.5693029Z"
+    }
+  ],
+  "updatedAt": "2026-07-17T16:20:46.621Z",
+  "reviewer": "nguoi-duyet-smoke",
+  "classificationVersion": "1.0.0"
+}
